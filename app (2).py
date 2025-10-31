@@ -1,41 +1,39 @@
 import streamlit as st
+import json
+import os
 
+# 🚨 This MUST be the first Streamlit command:
 st.set_page_config(
-    page_title="NyayBuddy",
+    page_title='BAKU THE "NYAY BUDDY" - Auto Multilingual RAG',
     page_icon="⚖️",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
-# Apply custom dark background with readable text
+# 🌑 Custom dark theme styling
 st.markdown(
     """
     <style>
         .stApp {
-            background-color: #1c1c1c;  /* Deep grey background */
-            color: #f0f0f0;  /* Light text color */
+            background-color: #1c1c1c;  /* Soft dark grey */
+            color: #f0f0f0;
         }
-
         .stTextInput > div > div > input,
         .stTextArea textarea {
             background-color: #2b2b2b;
             color: white;
         }
-
         .stButton>button {
             background-color: #007acc;
             color: white;
             border-radius: 8px;
         }
-
         .stButton>button:hover {
             background-color: #005fa3;
         }
-
         .stMarkdown, p, h1, h2, h3 {
             color: #f5f5f5 !important;
         }
-
         .stSidebar {
             background-color: #222222;
         }
@@ -43,6 +41,10 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+
+# ... now rest of your app code follows:
+st.title("⚖️ BAKU THE 'NYAY BUDDY'")
+st.write("Welcome to the multilingual AI legal assistance app.")
 
 import streamlit as st
 from pathlib import Path
