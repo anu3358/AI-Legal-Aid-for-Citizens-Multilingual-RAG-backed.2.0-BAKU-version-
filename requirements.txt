@@ -2,8 +2,6 @@ streamlit==1.39.0
 langdetect==1.0.9
 gTTS==2.5.3
 SpeechRecognition==3.10.4
-transformers==4.44.2
-torch==2.4.0
 scikit-learn==1.5.2
 python-docx==1.1.2
 numpy==1.26.4
