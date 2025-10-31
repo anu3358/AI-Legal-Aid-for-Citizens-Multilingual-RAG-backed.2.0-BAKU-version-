@@ -1,4 +1,50 @@
 import streamlit as st
+
+st.set_page_config(
+    page_title="NyayBuddy",
+    page_icon="⚖️",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
+
+# Apply custom dark background with readable text
+st.markdown(
+    """
+    <style>
+        .stApp {
+            background-color: #1c1c1c;  /* Deep grey background */
+            color: #f0f0f0;  /* Light text color */
+        }
+
+        .stTextInput > div > div > input,
+        .stTextArea textarea {
+            background-color: #2b2b2b;
+            color: white;
+        }
+
+        .stButton>button {
+            background-color: #007acc;
+            color: white;
+            border-radius: 8px;
+        }
+
+        .stButton>button:hover {
+            background-color: #005fa3;
+        }
+
+        .stMarkdown, p, h1, h2, h3 {
+            color: #f5f5f5 !important;
+        }
+
+        .stSidebar {
+            background-color: #222222;
+        }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+import streamlit as st
 from pathlib import Path
 import json, base64
 from rag import Retriever
