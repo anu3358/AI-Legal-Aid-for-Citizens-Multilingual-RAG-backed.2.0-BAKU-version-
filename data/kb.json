@@ -1,4 +1,903 @@
+[
+  {
+    "title": "Police Misuse",
+    "question": "Police is refusing to register my FIR, what can I do?",
+    "text": "If police refuses to file FIR, you can send a written complaint to the Superintendent of Police under Section 154(3) CrPC.",
+    "law_reference": "Section 154(3) CrPC",
+    "helpline": "Police Helpline 112",
+    "steps": [
+      "Ask for written reason of refusal.",
+      "Send complaint to SP by post or email.",
+      "Approach Magistrate under Section 156(3) if still ignored."
+    ]
+  },
+  {
+    "title": "पुलिस दुर्व्यवहार",
+    "question": "पुलिस एफआईआर दर्ज नहीं कर रही है, क्या करें?",
+    "text": "धारा 154(3) सीआरपीसी के तहत पुलिस अधीक्षक को लिखित शिकायत भेजें।",
+    "law_reference": "धारा 154(3) दंड प्रक्रिया संहिता",
+    "helpline": "पुलिस हेल्पलाइन 112",
+    "steps": [
+      "पुलिस से लिखित कारण मांगें।",
+      "एसपी को डाक या ईमेल से शिकायत भेजें।",
+      "मैजिस्ट्रेट के पास धारा 156(3) के तहत जाएं।"
+    ]
+  },
+  {
+    "title": "ਪੁਲਿਸ ਦੁੁਰਵਿਵਹਾਰ",
+    "question": "ਜੇ ਪੁਲਿਸ FIR ਦਰਜ ਨਹੀਂ ਕਰਦੀ ਤਾਂ ਕੀ ਕਰੀਏ?",
+    "text": "ਜੇ ਪੁਲਿਸ FIR ਨਹੀਂ ਲੈਂਦੀ, ਤਾਂ ਧਾਰਾ 154(3) CrPC ਹੇਠ SP ਨੂੰ ਲਿਖਤੀ ਸ਼ਿਕਾਇਤ ਭੇਜੋ।",
+    "law_reference": "ਧਾਰਾ 154(3) CrPC",
+    "helpline": "ਪੁਲਿਸ ਹੈਲਪਲਾਈਨ 112",
+    "steps": [
+      "ਲਿਖਤੀ ਕਾਰਨ ਮੰਗੋ।",
+      "SP ਨੂੰ ਡਾਕ ਜਾਂ ਈਮੇਲ ਨਾਲ ਸ਼ਿਕਾਇਤ ਭੇਜੋ।",
+      "ਜੇ ਨਜ਼ਰਅੰਦਾਜ਼ ਕੀਤਾ ਜਾਵੇ ਤਾਂ ਮੈਜਿਸਟ੍ਰੇਟ ਕੋਲ ਜਾਓ।"
+    ]
+  },
 
+  {
+    "title": "Property Dispute",
+    "question": "Neighbour encroached my land, what can I do?",
+    "text": "You can file a civil suit for possession and injunction under the Civil Procedure Code and Indian Penal Code for trespass.",
+    "law_reference": "Civil Procedure Code, Section 5",
+    "helpline": "Legal Aid 15100",
+    "steps": [
+      "Collect land papers and site photos.",
+      "Consult local Tehsildar or lawyer.",
+      "File civil suit for possession or injunction."
+    ]
+  },
+  {
+    "title": "संपत्ति विवाद",
+    "question": "मेरे पड़ोसी ने जमीन पर कब्जा कर लिया है।",
+    "text": "दीवानी प्रक्रिया संहिता के तहत कब्जा वापस पाने के लिए सिविल वाद दाखिल करें।",
+    "law_reference": "दीवानी प्रक्रिया संहिता धारा 5",
+    "helpline": "लीगल एड 15100",
+    "steps": [
+      "जमीन के कागज और फोटो एकत्र करें।",
+      "तहसीलदार या वकील से परामर्श लें।",
+      "सिविल कोर्ट में वाद दायर करें।"
+    ]
+  },
+  {
+    "title": "ਜਾਇਦਾਦ ਵਿਵਾਦ",
+    "question": "ਮੇਰੇ ਪੜੋਸੀ ਨੇ ਮੇਰੀ ਜ਼ਮੀਨ ਤੇ ਕਬਜ਼ਾ ਕੀਤਾ ਹੈ।",
+    "text": "ਸਿਵਲ ਪ੍ਰਕਿਰਿਆ ਸੰਹਿਤਾ ਹੇਠ ਮਲਕੀਅਤ ਜਾਂ ਰੋਕ ਆਰਡਰ ਲਈ ਕੇਸ ਦਾਖਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।",
+    "law_reference": "ਸਿਵਲ ਪ੍ਰਕਿਰਿਆ ਕੋਡ ਧਾਰਾ 5",
+    "helpline": "ਲੀਗਲ ਏਡ 15100",
+    "steps": [
+      "ਜ਼ਮੀਨ ਦੇ ਕਾਗਜ਼ ਅਤੇ ਫੋਟੋ ਇਕੱਠੇ ਕਰੋ।",
+      "ਤਹਿਸੀਲਦਾਰ ਜਾਂ ਵਕੀਲ ਨਾਲ ਗੱਲ ਕਰੋ।",
+      "ਸਿਵਲ ਕੋਰਟ ਵਿਚ ਕੇਸ ਦਾਖਲ ਕਰੋ।"
+    ]
+  },
+
+  {
+    "title": "Bail Process",
+    "question": "How can I apply for bail?",
+    "text": "Bail can be applied under Section 436-439 CrPC depending on offence type; regular or anticipatory bail can be granted by court.",
+    "law_reference": "Sections 436–439 CrPC",
+    "helpline": "Legal Aid 15100",
+    "steps": [
+      "Consult a lawyer for appropriate section.",
+      "Prepare bail application with reasons.",
+      "File in Magistrate or Sessions Court."
+    ]
+  },
+  {
+    "title": "जमानत प्रक्रिया",
+    "question": "जमानत के लिए आवेदन कैसे करें?",
+    "text": "धारा 436–439 सीआरपीसी के तहत अदालत से नियमित या अग्रिम जमानत ली जा सकती है।",
+    "law_reference": "धारा 436–439 सीआरपीसी",
+    "helpline": "लीगल एड 15100",
+    "steps": [
+      "वकील से सलाह लें।",
+      "जमानत आवेदन तैयार करें।",
+      "मैजिस्ट्रेट या सेशन कोर्ट में दायर करें।"
+    ]
+  },
+  {
+    "title": "ਜਮਾਨਤ ਪ੍ਰਕਿਰਿਆ",
+    "question": "ਜਮਾਨਤ ਲਈ ਅਰਜ਼ੀ ਕਿਵੇਂ ਦਿਓ?",
+    "text": "ਧਾਰਾ 436–439 CrPC ਅਧੀਨ ਅਦਾਲਤ ਨਿਯਮਿਤ ਜਾਂ ਪੂਰਵ-ਗ੍ਰਿਫਤਾਰੀ ਜਮਾਨਤ ਦੇ ਸਕਦੀ ਹੈ।",
+    "law_reference": "ਧਾਰਾ 436–439 CrPC",
+    "helpline": "ਲੀਗਲ ਏਡ 15100",
+    "steps": [
+      "ਵਕੀਲ ਨਾਲ ਸਲਾਹ ਕਰੋ।",
+      "ਜਮਾਨਤ ਦੀ ਅਰਜ਼ੀ ਤਿਆਰ ਕਰੋ।",
+      "ਮੈਜਿਸਟ੍ਰੇਟ ਜਾਂ ਸੈਸ਼ਨ ਕੋਰਟ ਵਿਚ ਦਾਖਲ ਕਰੋ।"
+    ]
+  },
+
+  {
+    "title": "Traffic Challan",
+    "question": "Received e-challan wrongly, what should I do?",
+    "text": "You can dispute wrong challan through state transport website or visit local RTO office with vehicle documents.",
+    "law_reference": "Motor Vehicles Act 1988",
+    "helpline": "Traffic Helpline 1073",
+    "steps": [
+      "Visit traffic police website to check challan details.",
+      "Upload documents proving your case.",
+      "Submit grievance online or in RTO office."
+    ]
+  },
+  {
+    "title": "ट्रैफिक चालान",
+    "question": "गलत चालान मिला है, क्या करें?",
+    "text": "मोटर वाहन अधिनियम 1988 के तहत आप वेबसाइट पर चालान को चुनौती दे सकते हैं।",
+    "law_reference": "मोटर वाहन अधिनियम 1988",
+    "helpline": "ट्रैफिक हेल्पलाइन 1073",
+    "steps": [
+      "वेबसाइट पर चालान विवरण देखें।",
+      "अपने दस्तावेज अपलोड करें।",
+      "ऑनलाइन या आरटीओ में शिकायत करें।"
+    ]
+  },
+  {
+    "title": "ਟਰੈਫਿਕ ਚਾਲਾਨ",
+    "question": "ਗਲਤ ਚਾਲਾਨ ਆਇਆ ਹੈ, ਕੀ ਕਰੀਏ?",
+    "text": "ਮੋਟਰ ਵਾਹਨ ਐਕਟ 1988 ਅਧੀਨ ਤੁਸੀਂ ਚਾਲਾਨ ਨੂੰ ਵਿਰੋਧ ਕਰ ਸਕਦੇ ਹੋ।",
+    "law_reference": "ਮੋਟਰ ਵਾਹਨ ਐਕਟ 1988",
+    "helpline": "ਟਰੈਫਿਕ ਹੈਲਪਲਾਈਨ 1073",
+    "steps": [
+      "ਟਰੈਫਿਕ ਵੈਬਸਾਈਟ ਤੇ ਵਿਸਥਾਰ ਚੈਕ ਕਰੋ।",
+      "ਆਪਣੇ ਸਬੂਤ ਅਪਲੋਡ ਕਰੋ।",
+      "ਆਰਟੀਓ ਜਾਂ ਔਨਲਾਈਨ ਸ਼ਿਕਾਇਤ ਕਰੋ।"
+    ]
+  },
+
+  {
+    "title": "Free Legal Aid",
+    "question": "Where can I get free legal help?",
+    "text": "Under the Legal Services Authorities Act 1987, citizens below income limit, women, children, SC/ST are eligible for free legal aid.",
+    "law_reference": "Legal Services Authorities Act 1987",
+    "helpline": "NALSA 15100",
+    "steps": [
+      "Call 15100 or visit district legal services authority.",
+      "Submit ID and income proof.",
+      "Lawyer will be assigned for free representation."
+    ]
+  },
+  {
+    "title": "निःशुल्क कानूनी सहायता",
+    "question": "मुफ्त कानूनी सहायता कहाँ से मिलेगी?",
+    "text": "कानूनी सेवा प्राधिकरण अधिनियम 1987 के तहत पात्र नागरिकों को मुफ्त सहायता मिलती है।",
+    "law_reference": "कानूनी सेवा प्राधिकरण अधिनियम 1987",
+    "helpline": "नाल्सा 15100",
+    "steps": [
+      "15100 पर कॉल करें या जिला कानूनी सेवा प्राधिकरण जाएं।",
+      "पहचान और आय प्रमाण जमा करें।",
+      "आपको निःशुल्क वकील उपलब्ध कराया जाएगा।"
+    ]
+  },
+  {
+    "title": "ਮੁਫ਼ਤ ਕਾਨੂੰਨੀ ਮਦਦ",
+    "question": "ਮੈਨੂੰ ਮੁਫ਼ਤ ਕਾਨੂੰਨੀ ਮਦਦ ਕਿੱਥੋਂ ਮਿਲੇਗੀ?",
+    "text": "ਕਾਨੂੰਨੀ ਸੇਵਾ ਅਥਾਰਟੀ ਐਕਟ 1987 ਹੇਠ ਹੱਕਦਾਰ ਨਾਗਰਿਕਾਂ ਨੂੰ ਮੁਫ਼ਤ ਸਹਾਇਤਾ ਮਿਲਦੀ ਹੈ।",
+    "law_reference": "ਕਾਨੂੰਨੀ ਸੇਵਾ ਐਕਟ 1987",
+    "helpline": "ਨਾਲਸਾ 15100",
+    "steps": [
+      "15100 ਤੇ ਕਾਲ ਕਰੋ ਜਾਂ ਜ਼ਿਲ੍ਹਾ ਕਾਨੂੰਨੀ ਸੇਵਾ ਦਫਤਰ ਜਾਓ।",
+      "ਪਹਿਚਾਣ ਤੇ ਆਮਦਨੀ ਸਬੂਤ ਦਿਓ।",
+      "ਮੁਫ਼ਤ ਵਕੀਲ ਨਿਯੁਕਤ ਕੀਤਾ ਜਾਵੇਗਾ।"
+    ]
+  }
+]
+[
+  {
+    "title": "Domestic Violence",
+    "question": "How can I file a complaint for domestic abuse?",
+    "text": "Under the Domestic Violence Act 2005, women facing physical or emotional abuse can seek protection and residence orders.",
+    "law_reference": "Domestic Violence Act 2005",
+    "helpline": "Women Helpline 181",
+    "steps": [
+      "Go to nearest police station or Protection Officer.",
+      "Write details of violence and ask for protection order.",
+      "Court can issue residence and maintenance orders."
+    ]
+  },
+  {
+    "title": "घरेलू हिंसा",
+    "question": "घरेलू हिंसा की शिकायत कैसे करें?",
+    "text": "घरेलू हिंसा अधिनियम 2005 के तहत महिलाएं सुरक्षा आदेश और निवास अधिकार पा सकती हैं।",
+    "law_reference": "घरेलू हिंसा अधिनियम 2005",
+    "helpline": "महिला हेल्पलाइन 181",
+    "steps": [
+      "नजदीकी पुलिस थाने या संरक्षण अधिकारी से संपर्क करें।",
+      "शिकायत लिखित रूप में दें।",
+      "अदालत से सुरक्षा या निवास आदेश मांगे।"
+    ]
+  },
+  {
+    "title": "ਘਰੇਲੂ ਹਿੰਸਾ",
+    "question": "ਘਰੇਲੂ ਹਿੰਸਾ ਦੀ ਸ਼ਿਕਾਇਤ ਕਿਵੇਂ ਕਰੀਏ?",
+    "text": "ਘਰੇਲੂ ਹਿੰਸਾ ਐਕਟ 2005 ਅਧੀਨ ਮਹਿਲਾਵਾਂ ਸੁਰੱਖਿਆ ਤੇ ਰਿਹਾਇਸ਼ ਦਾ ਹੱਕ ਮੰਗ ਸਕਦੀਆਂ ਹਨ।",
+    "law_reference": "ਘਰੇਲੂ ਹਿੰਸਾ ਐਕਟ 2005",
+    "helpline": "ਮਹਿਲਾ ਹੈਲਪਲਾਈਨ 181",
+    "steps": [
+      "ਨਿਕਟਮ ਪੁਲਿਸ ਥਾਣੇ ਜਾਂ ਪ੍ਰੋਟੈਕਸ਼ਨ ਅਫ਼ਸਰ ਕੋਲ ਜਾਓ।",
+      "ਸ਼ਿਕਾਇਤ ਲਿਖਤੀ ਦਿਓ।",
+      "ਅਦਾਲਤ ਤੋਂ ਸੁਰੱਖਿਆ ਜਾਂ ਰਿਹਾਇਸ਼ ਆਰਡਰ ਮੰਗੋ।"
+    ]
+  },
+
+  {
+    "title": "Child Labour",
+    "question": "A child is working in a factory near my home.",
+    "text": "Child Labour (Prohibition and Regulation) Act 1986 bans employment of children below 14 years.",
+    "law_reference": "Child Labour Act 1986",
+    "helpline": "Child Helpline 1098",
+    "steps": [
+      "Call 1098 or inform nearest police station.",
+      "Provide address and proof to rescue team.",
+      "Cooperate with child welfare officer."
+    ]
+  },
+  {
+    "title": "बाल श्रम",
+    "question": "मेरे आस-पास एक फैक्ट्री में बच्चा काम करता है।",
+    "text": "बाल श्रम निषेध अधिनियम 1986 के तहत 14 वर्ष से कम उम्र के बच्चों को काम पर रखना अपराध है।",
+    "law_reference": "बाल श्रम अधिनियम 1986",
+    "helpline": "चाइल्ड हेल्पलाइन 1098",
+    "steps": [
+      "1098 पर कॉल करें या थाने में सूचना दें।",
+      "पता और प्रमाण उपलब्ध कराएं।",
+      "बचाव दल के साथ सहयोग करें।"
+    ]
+  },
+  {
+    "title": "ਬਾਲ ਸ਼ਰਮ",
+    "question": "ਮੇਰੇ ਨੇੜੇ ਫੈਕਟਰੀ ਵਿਚ ਇਕ ਬੱਚਾ ਕੰਮ ਕਰਦਾ ਹੈ।",
+    "text": "ਬਾਲ ਸ਼ਰਮ (ਰੋਕ ਤੇ ਨਿਯਮ) ਐਕਟ 1986 ਹੇਠ 14 ਸਾਲ ਤੋਂ ਘੱਟ ਉਮਰ ਦੇ ਬੱਚੇ ਨੂੰ ਕੰਮ ਤੇ ਰੱਖਣਾ ਅਪਰਾਧ ਹੈ।",
+    "law_reference": "ਬਾਲ ਸ਼ਰਮ ਐਕਟ 1986",
+    "helpline": "ਚਾਇਲਡ ਹੈਲਪਲਾਈਨ 1098",
+    "steps": [
+      "1098 ਤੇ ਕਾਲ ਕਰੋ ਜਾਂ ਪੁਲਿਸ ਨੂੰ ਦੱਸੋ।",
+      "ਪਤਾ ਤੇ ਸਬੂਤ ਦਿਓ।",
+      "ਬੱਚੇ ਦੀ ਬਚਾਵ ਟੀਮ ਨਾਲ ਸਹਿਯੋਗ ਕਰੋ।"
+    ]
+  },
+
+  {
+    "title": "Senior Citizen Abuse",
+    "question": "What can a senior citizen do if harassed by family?",
+    "text": "Under the Maintenance and Welfare of Parents and Senior Citizens Act 2007, elderly parents can claim maintenance and protection.",
+    "law_reference": "Senior Citizens Act 2007",
+    "helpline": "Elder Helpline 14567",
+    "steps": [
+      "Call 14567 or visit district social welfare office.",
+      "Submit written complaint for protection or maintenance.",
+      "Tribunal can order monthly maintenance from children."
+    ]
+  },
+  {
+    "title": "वरिष्ठ नागरिक उत्पीड़न",
+    "question": "अगर परिवार परेशान कर रहा है तो वरिष्ठ नागरिक क्या करें?",
+    "text": "वरिष्ठ नागरिक अधिनियम 2007 के तहत माता-पिता भरण-पोषण और सुरक्षा का दावा कर सकते हैं।",
+    "law_reference": "वरिष्ठ नागरिक अधिनियम 2007",
+    "helpline": "हेल्पलाइन 14567",
+    "steps": [
+      "14567 पर कॉल करें या सामाजिक कल्याण कार्यालय जाएं।",
+      "लिखित शिकायत दें।",
+      "ट्रिब्यूनल से मासिक भरण-पोषण आदेश लिया जा सकता है।"
+    ]
+  },
+  {
+    "title": "ਵਰਿਸ਼ਠ ਨਾਗਰਿਕ ਉਤਪੀੜਨ",
+    "question": "ਜੇ ਪਰਿਵਾਰ ਤੰਗ ਕਰਦਾ ਹੈ ਤਾਂ ਬਜ਼ੁਰਗ ਕੀ ਕਰੇ?",
+    "text": "ਮਾਤਾ-ਪਿਤਾ ਤੇ ਵਰਿਸ਼ਠ ਨਾਗਰਿਕ ਐਕਟ 2007 ਅਧੀਨ ਬਜ਼ੁਰਗ ਭਰਣ-ਪੋਸ਼ਣ ਤੇ ਸੁਰੱਖਿਆ ਦਾ ਹੱਕ ਮੰਗ ਸਕਦੇ ਹਨ।",
+    "law_reference": "ਵਰਿਸ਼ਠ ਨਾਗਰਿਕ ਐਕਟ 2007",
+    "helpline": "ਹੈਲਪਲਾਈਨ 14567",
+    "steps": [
+      "14567 ਤੇ ਕਾਲ ਕਰੋ ਜਾਂ ਸਮਾਜਿਕ ਭਲਾਈ ਦਫਤਰ ਜਾਓ।",
+      "ਸ਼ਿਕਾਇਤ ਲਿਖਤੀ ਦਿਓ।",
+      "ਟ੍ਰਿਬਿਊਨਲ ਭਰਣ-ਪੋਸ਼ਣ ਦਾ ਹੁਕਮ ਜਾਰੀ ਕਰ ਸਕਦਾ ਹੈ।"
+    ]
+  },
+
+  {
+    "title": "Environmental Pollution",
+    "question": "Factory near my home emits toxic smoke.",
+    "text": "Under the Air (Prevention and Control of Pollution) Act 1981, you can complain to the State Pollution Control Board.",
+    "law_reference": "Air Act 1981",
+    "helpline": "Pollution Control Board 1800-233-7933",
+    "steps": [
+      "Note address and pollution details.",
+      "File complaint with Pollution Control Board.",
+      "Attach photos or video proof."
+    ]
+  },
+  {
+    "title": "पर्यावरण प्रदूषण",
+    "question": "मेरे घर के पास की फैक्ट्री से धुआँ निकलता है।",
+    "text": "वायु प्रदूषण नियंत्रण अधिनियम 1981 के तहत शिकायत दर्ज करें।",
+    "law_reference": "वायु अधिनियम 1981",
+    "helpline": "प्रदूषण बोर्ड 1800-233-7933",
+    "steps": [
+      "फैक्ट्री का पता और विवरण लिखें।",
+      "प्रदूषण नियंत्रण बोर्ड में शिकायत करें।",
+      "फोटो या वीडियो सबूत संलग्न करें।"
+    ]
+  },
+  {
+    "title": "ਵਾਤਾਵਰਣ ਪ੍ਰਦੂਸ਼ਣ",
+    "question": "ਮੇਰੇ ਘਰ ਨੇੜੇ ਫੈਕਟਰੀ ਤੋਂ ਧੂੰਆਂ ਨਿਕਲਦਾ ਹੈ।",
+    "text": "ਹਵਾ ਪ੍ਰਦੂਸ਼ਣ ਐਕਟ 1981 ਹੇਠ ਸ਼ਿਕਾਇਤ ਪੇਸ਼ ਕਰੋ।",
+    "law_reference": "ਹਵਾ ਐਕਟ 1981",
+    "helpline": "ਪ੍ਰਦੂਸ਼ਣ ਬੋਰਡ 1800-233-7933",
+    "steps": [
+      "ਫੈਕਟਰੀ ਦਾ ਪਤਾ ਤੇ ਵੇਰਵਾ ਲਿਖੋ।",
+      "ਪ੍ਰਦੂਸ਼ਣ ਕੰਟਰੋਲ ਬੋਰਡ ਕੋਲ ਸ਼ਿਕਾਇਤ ਕਰੋ।",
+      "ਫੋਟੋ ਜਾਂ ਵੀਡੀਓ ਸਬੂਤ ਜੋੜੋ।"
+    ]
+  }
+]
+[
+  {
+    "title": "Dowry Harassment",
+    "question": "My husband is demanding dowry, what can I do?",
+    "text": "Dowry harassment is a crime under Section 498A IPC. You can file an FIR at the local police station or Women Cell.",
+    "law_reference": "Section 498A IPC 1860",
+    "helpline": "Women Helpline 181",
+    "steps": [
+      "Collect proofs like messages or witnesses.",
+      "File a written complaint at police station or women cell.",
+      "If ignored, contact National Commission for Women."
+    ]
+  },
+  {
+    "title": "दहेज उत्पीड़न",
+    "question": "मेरा पति दहेज मांग रहा है, क्या करूँ?",
+    "text": "भारतीय दंड संहिता की धारा 498A के तहत दहेज उत्पीड़न अपराध है। पुलिस थाने या महिला प्रकोष्ठ में एफआईआर दर्ज करें।",
+    "law_reference": "धारा 498A, आईपीसी 1860",
+    "helpline": "महिला हेल्पलाइन 181",
+    "steps": [
+      "साक्ष्य जैसे संदेश, गवाह इकट्ठा करें।",
+      "नजदीकी थाने या महिला सेल में शिकायत करें।",
+      "कोई कार्रवाई न हो तो 181 या महिला आयोग से संपर्क करें।"
+    ]
+  },
+  {
+    "title": "ਦਹੇਜ ਉਤਪੀੜਨ",
+    "question": "ਮੇਰਾ ਪਤੀ ਦਹੇਜ ਮੰਗਦਾ ਹੈ, ਕੀ ਕਰਾਂ?",
+    "text": "ਦਹੇਜ ਮੰਗਣਾ ਜਾਂ ਉਤਪੀੜਨ ਭਾਰਤੀ ਦੰਡ ਸਹਿਤਾ ਧਾਰਾ 498A ਹੇਠ ਦੋਸ਼ ਹੈ। ਸਭ ਤੋਂ ਨੇੜਲੇ ਪੁਲਿਸ ਥਾਣੇ ਜਾਂ ਮਹਿਲਾ ਸੈੱਲ ਵਿਚ FIR ਦਰਜ ਕਰੋ।",
+    "law_reference": "ਧਾਰਾ 498A IPC 1860",
+    "helpline": "ਮਹਿਲਾ ਹੈਲਪਲਾਈਨ 181",
+    "steps": [
+      "ਸਬੂਤ ਜਿਵੇਂ ਸੁਨੇਹੇ ਜਾਂ ਗਵਾਹ ਇਕੱਠੇ ਕਰੋ।",
+      "ਪੁਲਿਸ ਜਾਂ ਮਹਿਲਾ ਸੈੱਲ ਵਿਚ ਲਿਖਤੀ ਸ਼ਿਕਾਇਤ ਕਰੋ।",
+      "ਕੋਈ ਕਾਰਵਾਈ ਨਾ ਹੋਵੇ ਤਾਂ 181 ਨੰਬਰ ਤੇ ਕਾਲ ਕਰੋ।"
+    ]
+  },
+
+  {
+    "title": "Caste Discrimination",
+    "question": "I faced caste-based discrimination, what law protects me?",
+    "text": "The SC/ST (Prevention of Atrocities) Act 1989 protects individuals against caste discrimination and violence.",
+    "law_reference": "SC/ST Act 1989",
+    "helpline": "Police 112 / SC-ST Helpline 14566",
+    "steps": [
+      "Write a complaint mentioning caste abuse details.",
+      "Approach local police or SC/ST commission.",
+      "Seek legal aid through district legal services authority."
+    ]
+  },
+  {
+    "title": "जाति भेदभाव",
+    "question": "मेरे साथ जाति के आधार पर भेदभाव हुआ है, क्या करें?",
+    "text": "अनुसूचित जाति/जनजाति अत्याचार निवारण अधिनियम 1989 के तहत जातिगत भेदभाव अपराध है।",
+    "law_reference": "SC/ST Act 1989",
+    "helpline": "SC-ST हेल्पलाइन 14566",
+    "steps": [
+      "भेदभाव की पूरी जानकारी लिखें।",
+      "थाने या आयोग में शिकायत दें।",
+      "जरूरत हो तो निःशुल्क कानूनी सहायता लें।"
+    ]
+  },
+  {
+    "title": "ਜਾਤੀ ਭੇਦਭਾਵ",
+    "question": "ਮੇਰੇ ਨਾਲ ਜਾਤੀ ਅਧਾਰਿਤ ਭੇਦਭਾਵ ਹੋਇਆ ਹੈ, ਕੀ ਕਰਾਂ?",
+    "text": "SC/ST (ਅਤਿਆਚਾਰ ਰੋਕਥਾਮ) ਐਕਟ 1989 ਹੇਠ ਜਾਤੀ ਭੇਦਭਾਵ ਇੱਕ ਅਪਰਾਧ ਹੈ।",
+    "law_reference": "SC/ST ਐਕਟ 1989",
+    "helpline": "SC-ST ਹੈਲਪਲਾਈਨ 14566",
+    "steps": [
+      "ਭੇਦਭਾਵ ਦੀ ਵਿਸਥਾਰ ਨਾਲ ਸ਼ਿਕਾਇਤ ਲਿਖੋ।",
+      "ਥਾਣੇ ਜਾਂ ਕਮਿਸ਼ਨ ਕੋਲ ਜਾਓ।",
+      "ਜ਼ਰੂਰਤ ਪਏ ਤਾਂ ਕਾਨੂੰਨੀ ਮਦਦ ਲਵੋ।"
+    ]
+  },
+
+  {
+    "title": "Cyber Fraud",
+    "question": "Someone used my ATM card online.",
+    "text": "Report within 24 hours at 1930 or cybercrime.gov.in. The IT Act 2000 (Sections 66C, 66D) covers online fraud.",
+    "law_reference": "IT Act 2000 Sections 66C, 66D",
+    "helpline": "Cybercrime 1930",
+    "steps": [
+      "Call 1930 or file online complaint.",
+      "Inform your bank immediately.",
+      "Keep complaint number for tracking."
+    ]
+  },
+  {
+    "title": "साइबर ठगी",
+    "question": "मेरे कार्ड से ऑनलाइन पैसे निकाल लिए गए।",
+    "text": "24 घंटे के अंदर 1930 पर कॉल करें या cybercrime.gov.in पर शिकायत करें।",
+    "law_reference": "सूचना प्रौद्योगिकी अधिनियम 2000 धारा 66C, 66D",
+    "helpline": "साइबरक्राइम 1930",
+    "steps": [
+      "1930 पर कॉल या ऑनलाइन शिकायत दर्ज करें।",
+      "बैंक को तुरंत सूचित करें।",
+      "शिकायत संख्या नोट रखें।"
+    ]
+  },
+  {
+    "title": "ਸਾਇਬਰ ਠੱਗੀ",
+    "question": "ਮੇਰੇ ਏਟੀਐਮ ਕਾਰਡ ਨਾਲ ਠੱਗੀ ਹੋਈ ਹੈ।",
+    "text": "24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ 1930 'ਤੇ ਕਾਲ ਕਰੋ ਜਾਂ cybercrime.gov.in 'ਤੇ ਸ਼ਿਕਾਇਤ ਕਰੋ।",
+    "law_reference": "IT ਐਕਟ 2000 ਧਾਰਾ 66C, 66D",
+    "helpline": "ਸਾਇਬਰ ਹੈਲਪਲਾਈਨ 1930",
+    "steps": [
+      "1930 ਤੇ ਕਾਲ ਜਾਂ ਔਨਲਾਈਨ ਸ਼ਿਕਾਇਤ ਕਰੋ।",
+      "ਬੈਂਕ ਨੂੰ ਤੁਰੰਤ ਜਾਣਕਾਰੀ ਦਿਓ।",
+      "ਸ਼ਿਕਾਇਤ ਨੰਬਰ ਸੁਰੱਖਿਅਤ ਰੱਖੋ।"
+    ]
+  },
+
+  {
+    "title": "Right to Information",
+    "question": "How to file RTI for school records?",
+    "text": "Under the RTI Act 2005, any citizen can seek information from public authorities by paying ₹10 fee.",
+    "law_reference": "RTI Act 2005",
+    "helpline": "RTI 15100",
+    "steps": [
+      "Address application to Public Information Officer.",
+      "Attach ₹10 fee or IPO.",
+      "Submit by post and keep acknowledgment."
+    ]
+  },
+  {
+    "title": "सूचना अधिकार",
+    "question": "स्कूल रिकॉर्ड के लिए आरटीआई कैसे लगाएं?",
+    "text": "आरटीआई अधिनियम 2005 के तहत कोई भी नागरिक जानकारी मांग सकता है।",
+    "law_reference": "RTI अधिनियम 2005",
+    "helpline": "RTI 15100",
+    "steps": [
+      "जन सूचना अधिकारी को आवेदन लिखें।",
+      "₹10 शुल्क संलग्न करें।",
+      "डाक से भेजें और पावती रखें।"
+    ]
+  },
+  {
+    "title": "ਸੂਚਨਾ ਅਧਿਕਾਰ",
+    "question": "ਸਕੂਲ ਰਿਕਾਰਡ ਲਈ RTI ਕਿਵੇਂ ਲਗਾਈਏ?",
+    "text": "RTI ਐਕਟ 2005 ਅਧੀਨ ਕੋਈ ਵੀ ਨਾਗਰਿਕ ਸਰਕਾਰੀ ਜਾਣਕਾਰੀ ਮੰਗ ਸਕਦਾ ਹੈ।",
+    "law_reference": "RTI ਐਕਟ 2005",
+    "helpline": "RTI 15100",
+    "steps": [
+      "PIO ਨੂੰ ਅਰਜ਼ੀ ਲਿਖੋ।",
+      "₹10 ਦੀ ਫੀਸ ਜੋੜੋ।",
+      "ਡਾਕ ਰਾਹੀਂ ਭੇਜੋ ਤੇ ਰਸੀਦ ਰੱਖੋ।"
+    ]
+  }
+]
+[
+  {
+    "title": "Dowry Harassment / ਦਹੇਜ ਉਤਪੀੜਨ / दहेज उत्पीड़न",
+    "question": "My husband is demanding dowry, what can I do? / ਮੇਰਾ ਪਤੀ ਦਹੇਜ ਮੰਗਦਾ ਹੈ / मेरा पति दहेज मांग रहा है, क्या करूँ?",
+    "text": "Dowry harassment is an offence under Section 498A of the Indian Penal Code (IPC). Police can register an FIR against the husband or relatives for cruelty related to dowry.",
+    "law_reference": "Section 498A IPC 1860",
+    "helpline": "Women Helpline 181",
+    "steps": [
+      "Collect proof of harassment (audio, messages, witnesses).",
+      "Submit a written complaint to the nearest police station or Women Cell.",
+      "If no action, call 181 or approach the National Commission for Women."
+    ]
+  },
+  {
+    "title": "Domestic Violence / ਘਰੇਲੂ ਹਿੰਸਾ / घरेलू हिंसा",
+    "question": "How to file complaint for domestic violence? / ਘਰੇਲੂ ਹਿੰਸਾ ਦੀ ਸ਼ਿਕਾਇਤ ਕਿਵੇਂ ਕਰਾਂ? / घरेलू हिंसा की शिकायत कैसे करें?",
+    "text": "Under the Protection of Women from Domestic Violence Act 2005, any woman facing physical, emotional, or economic abuse can seek protection orders and residence rights.",
+    "law_reference": "Domestic Violence Act 2005",
+    "helpline": "Women Helpline 181",
+    "steps": [
+      "Go to the nearest police station or protection officer.",
+      "Submit written details of abuse.",
+      "Court can issue protection, residence, or maintenance orders."
+    ]
+  },
+  {
+    "title": "Cyber Fraud / ਸਾਇਬਰ ਠੱਗੀ / साइबर ठगी",
+    "question": "Someone used my ATM card online, what can I do? / ਕਿਸੇ ਨੇ ਮੇਰਾ ਏਟੀਐਮ ਕਾਰਡ ਵਰਤਿਆ / किसी ने मेरा एटीएम कार्ड ऑनलाइन यूज़ किया क्या करूँ?",
+    "text": "Report cyber-fraud within 24 hours to 1930 or cybercrime.gov.in under the Information Technology Act 2000 (Section 66C, 66D).",
+    "law_reference": "IT Act 2000 Sections 66C, 66D",
+    "helpline": "Cybercrime Helpline 1930",
+    "steps": [
+      "Call 1930 or file FIR online at cybercrime.gov.in.",
+      "Inform your bank to block card and recover amount.",
+      "Keep acknowledgment and follow up with cyber cell."
+    ]
+  },
+  {
+    "title": "RTI Application / ਸੂਚਨਾ ਅਧਿਕਾਰ / सूचना अधिकार",
+    "question": "How can I file an RTI? / ਮੈਂ RTI ਕਿਵੇਂ ਫਾਇਲ ਕਰ ਸਕਦਾ ਹਾਂ? / मैं आरटीआई कैसे फाइल करूं?",
+    "text": "The Right to Information Act 2005 empowers citizens to seek information from any public authority within 30 days.",
+    "law_reference": "RTI Act 2005 Section 6(1)",
+    "helpline": "RTI Help 15100",
+    "steps": [
+      "Write an RTI application addressed to the PIO of department.",
+      "Attach ₹10 fee or IPO as per rules.",
+      "Submit personally or by post and keep acknowledgment."
+    ]
+  },
+  {
+    "title": "Consumer Complaint / ਉਪਭੋਗਤਾ ਸ਼ਿਕਾਇਤ / उपभोक्ता शिकायत",
+    "question": "Received defective product from online site / ਮੈਨੂੰ ਖਰਾਬ ਸਾਮਾਨ ਮਿਲਿਆ / मुझे खराब सामान मिला क्या करूँ?",
+    "text": "You can file a complaint under the Consumer Protection Act 2019 for refund or replacement through consumerhelpline.gov.in.",
+    "law_reference": "Consumer Protection Act 2019",
+    "helpline": "Consumer Helpline 1800-11-4000",
+    "steps": [
+      "Contact seller and keep emails as proof.",
+      "File complaint on consumerhelpline.gov.in or district forum.",
+      "Attach invoice and photo evidence."
+    ]
+  },
+  {
+    "title": "Unpaid Salary / ਤਨਖਾਹ ਬਕਾਇਆ / तनख़्वाह नहीं मिली",
+    "question": "Employer not paying salary / ਮੇਰੇ ਨੌਕਰੀਦਾਤਾ ਤਨਖਾਹ ਨਹੀਂ ਦੇ ਰਹੇ / मेरा एम्प्लॉयर पगार नहीं दे रहा",
+    "text": "Workers can approach Labour Department under Payment of Wages Act 1936 or file complaint at labourhelpline.gov.in.",
+    "law_reference": "Payment of Wages Act 1936",
+    "helpline": "Labour Helpline 155214",
+    "steps": [
+      "Send written notice to employer asking for pending salary.",
+      "Approach Labour Commissioner office with proof.",
+      "File claim under Payment of Wages Act if no response."
+    ]
+  },
+  {
+    "title": "FIR Meaning / ਐਫਆਈਆਰ ਕੀ ਹੈ / एफआईआर क्या है",
+    "question": "What is FIR and how to register? / ਐਫਆਈਆਰ ਕਿਵੇਂ ਦਰਜ ਹੋਵੇ / एफआईआर कैसे दर्ज करें?",
+    "text": "FIR means First Information Report under Section 154 CrPC. It is the first step to begin criminal investigation by police.",
+    "law_reference": "Section 154 CrPC",
+    "helpline": "Police Helpline 112",
+    "steps": [
+      "Go to nearest police station and explain incident.",
+      "Ask for copy of FIR with number and date.",
+      "If police refuse, send written complaint to SP under Section 154(3)."
+    ]
+  }
+
+]
+,
+  {
+    "title": "Property Dispute / ਜਾਇਦਾਦ ਵਿਵਾਦ / संपत्ति विवाद",
+    "question": "Neighbour encroached my land, what can I do? / ਮੇਰੇ ਪੜੋਸੀ ਨੇ ਜ਼ਮੀਨ ਤੇ ਕਬਜ਼ਾ ਕੀਤਾ ਹੈ / मेरे पड़ोसी ने जमीन पर कब्जा कर लिया है",
+    "text": "You can file a civil suit for possession and injunction under the Civil Procedure Code and also complain to the local revenue office.",
+    "law_reference": "Civil Procedure Code, Section 5",
+    "helpline": "Legal Aid 15100",
+    "steps": [
+      "Collect land papers, photos, and witness statements.",
+      "Consult Tehsildar or civil-lawyer for site inspection.",
+      "File suit for possession or injunction in civil court."
+    ],
+    "tts_text": "For land disputes, gather documents and approach civil court under Civil Procedure Code Section 5. Call Legal Aid 15100."
+  },
+  {
+    "title": "Child Labour / ਬਾਲ ਸ਼ਰਮ / बाल श्रम",
+    "question": "A child is working in a factory near my home. / ਮੇਰੇ ਨੇੜੇ ਬੱਚਾ ਕੰਮ ਕਰਦਾ ਹੈ / मेरे आस-पास बच्चा काम करता है",
+    "text": "Employment of children below 14 years is banned under the Child Labour (Prohibition & Regulation) Act 1986.",
+    "law_reference": "Child Labour Act 1986",
+    "helpline": "Child Helpline 1098",
+    "steps": [
+      "Call 1098 or inform nearest police station.",
+      "Provide address and photos to rescue team.",
+      "Co-operate with child-welfare officer."
+    ],
+    "tts_text": "Child labour is illegal under Act 1986. Call 1098 to report immediately."
+  },
+  {
+    "title": "Senior Citizen Abuse / ਵਰਿਸ਼ਠ ਨਾਗਰਿਕ ਉਤਪੀੜਨ / वरिष्ठ नागरिक उत्पीड़न",
+    "question": "Family harassing senior citizen, what can be done? / ਜੇ ਪਰਿਵਾਰ ਤੰਗ ਕਰਦਾ ਹੈ / अगर परिवार परेशान कर रहा है",
+    "text": "Under the Maintenance & Welfare of Parents and Senior Citizens Act 2007, elderly parents can claim maintenance and protection.",
+    "law_reference": "Senior Citizens Act 2007",
+    "helpline": "Elder Helpline 14567",
+    "steps": [
+      "Call 14567 or visit District Social Welfare Office.",
+      "File written complaint for maintenance or protection.",
+      "Tribunal can order monthly maintenance from children."
+    ],
+    "tts_text": "Seniors can seek protection under Senior Citizens Act 2007. Call 14567 for help."
+  },
+  {
+    "title": "Traffic Challan / ਟਰੈਫਿਕ ਚਾਲਾਨ / ट्रैफिक चालान",
+    "question": "Received wrong e-challan, what to do? / ਗਲਤ ਚਾਲਾਨ ਆਇਆ ਹੈ / गलत चालान मिला है",
+    "text": "You can dispute a wrong challan through the state transport portal or at the local RTO office with vehicle documents.",
+    "law_reference": "Motor Vehicles Act 1988",
+    "helpline": "Traffic Helpline 1073",
+    "steps": [
+      "Check challan details on traffic-police website.",
+      "Upload proof such as photos or sale documents.",
+      "Submit grievance online or at RTO office."
+    ],
+    "tts_text": "Dispute wrong challan under Motor Vehicles Act 1988 via state portal or 1073 helpline."
+  },
+  {
+    "title": "Environmental Pollution / ਵਾਤਾਵਰਣ ਪ੍ਰਦੂਸ਼ਣ / पर्यावरण प्रदूषण",
+    "question": "Factory near home emits toxic smoke. / ਮੇਰੇ ਘਰ ਨੇੜੇ ਫੈਕਟਰੀ ਤੋਂ ਧੂੰਆਂ ਨਿਕਲਦਾ ਹੈ / मेरे घर के पास फैक्ट्री से धुआं निकलता है",
+    "text": "Under the Air (Prevention and Control of Pollution) Act 1981, you can file complaint to State Pollution Control Board.",
+    "law_reference": "Air Act 1981",
+    "helpline": "Pollution Board 1800-233-7933",
+    "steps": [
+      "Note address and nature of pollution.",
+      "Submit complaint with Pollution Control Board.",
+      "Attach photo or video evidence."
+    ],
+    "tts_text": "Report smoke or pollution to 1800 233 7933 under Air Act 1981."
+  },
+  {
+    "title": "Caste Discrimination / ਜਾਤੀ ਭੇਦਭਾਵ / जाति भेदभाव",
+    "question": "Faced caste-based discrimination, what law protects me? / ਜਾਤੀ ਅਧਾਰਿਤ ਭੇਦਭਾਵ ਹੋਇਆ ਹੈ / जातिगत भेदभाव हुआ है",
+    "text": "The SC/ST (Prevention of Atrocities) Act 1989 protects individuals against caste discrimination and violence.",
+    "law_reference": "SC/ST Act 1989",
+    "helpline": "SC-ST Helpline 14566 / Police 112",
+    "steps": [
+      "Write complaint detailing caste-abuse incident.",
+      "Approach local police or SC/ST Commission.",
+      "Seek free legal aid via District Legal Services Authority."
+    ],
+    "tts_text": "Discrimination based on caste is punishable under SC/ST Act 1989. Call 14566 or 112."
+  },
+  {
+    "title": "Bail Process / ਜਮਾਨਤ ਪ੍ਰਕਿਰਿਆ / जमानत प्रक्रिया",
+    "question": "How can I apply for bail? / ਜਮਾਨਤ ਲਈ ਅਰਜ਼ੀ ਕਿਵੇਂ ਦਿਓ / जमानत के लिए आवेदन कैसे करें",
+    "text": "You may apply under Sections 436–439 CrPC for regular or anticipatory bail depending on the offence type.",
+    "law_reference": "Sections 436–439 CrPC",
+    "helpline": "Legal Aid 15100",
+    "steps": [
+      "Consult lawyer for proper section.",
+      "Prepare bail application with reasons.",
+      "File before Magistrate or Sessions Court."
+    ],
+    "tts_text": "Bail can be sought under Sections 436–439 CrPC through court. Call 15100 for legal help."
+  }
+,
+  {
+    "title": "Right to Education / ਸਿੱਖਿਆ ਦਾ ਅਧਿਕਾਰ / शिक्षा का अधिकार",
+    "question": "My child was denied school admission, what can I do?",
+    "text": "Every child between 6-14 years has a fundamental right to free and compulsory education under the RTE Act 2009.",
+    "law_reference": "Right to Education Act 2009",
+    "helpline": "Education Helpline 1800-11-8002",
+    "steps": [
+      "Meet the head of the school and demand admission in writing.",
+      "If refused, file complaint with District Education Officer.",
+      "Approach State Commission for Protection of Child Rights if still unresolved."
+    ],
+    "tts_text": "Under RTE Act 2009 every child 6-14 years has right to free schooling. Call 1800 11 8002 for help."
+  },
+  {
+    "title": "Right to Equality / ਸਮਾਨਤਾ ਦਾ ਅਧਿਕਾਰ / समानता का अधिकार",
+    "question": "I was denied a job due to caste or religion.",
+    "text": "Article 14-17 of the Indian Constitution guarantee equality before law and prohibit discrimination on religion, race, caste, sex or place of birth.",
+    "law_reference": "Articles 14 to 17 Constitution of India",
+    "helpline": "National Human Rights Commission 14433",
+    "steps": [
+      "Document the incident of discrimination.",
+      "Complain to NHRC (14433) or State Human Rights Commission.",
+      "Seek remedy under SC/ST Act 1989 if applicable."
+    ],
+    "tts_text": "Equality is a constitutional right under Articles 14-17. Report discrimination to NHRC 14433."
+  },
+  {
+    "title": "Right to Privacy / ਨਿੱਜਤਾ ਦਾ ਹੱਕ / निजता का अधिकार",
+    "question": "My private photos were leaked online.",
+    "text": "Right to privacy is a fundamental right under Article 21. Cyber offences like photo misuse are punishable under IT Act 2000 Sections 66E & 67.",
+    "law_reference": "Article 21 & IT Act 2000 Sections 66E 67",
+    "helpline": "Cybercrime 1930",
+    "steps": [
+      "Report at cybercrime.gov.in or call 1930 within 24 hours.",
+      "Provide screenshots and URLs as evidence.",
+      "Request takedown from social media platforms."
+    ],
+    "tts_text": "Right to privacy is protected by Article 21 and IT Act 2000. Call 1930 to report cyber abuse."
+  },
+  {
+    "title": "Labour Rights / ਮਜ਼ਦੂਰ ਅਧਿਕਾਰ / श्रमिक अधिकार",
+    "question": "My employer is not paying salary.",
+    "text": "Under the Payment of Wages Act 1936 and Industrial Disputes Act 1947, workers can claim unpaid wages through Labour Commissioner.",
+    "law_reference": "Payment of Wages Act 1936, Industrial Disputes Act 1947",
+    "helpline": "Labour Helpline 155214",
+    "steps": [
+      "Send written notice to employer demanding salary.",
+      "Approach Labour Office with salary proof.",
+      "File claim under Payment of Wages Act if unpaid."
+    ],
+    "tts_text": "Workers can claim wages under Payment of Wages Act 1936. Call 155214 for assistance."
+  },
+  {
+    "title": "Tenant Rights / ਕਿਰਾਏਦਾਰ ਅਧਿਕਾਰ / किरायेदार अधिकार",
+    "question": "Landlord is forcing eviction without notice.",
+    "text": "Tenants are protected under state Rent Control Acts; landlord must serve written notice and follow legal eviction procedure.",
+    "law_reference": "Rent Control Act (State-wise)",
+    "helpline": "Legal Aid 15100",
+    "steps": [
+      "Ask landlord for written notice with reason.",
+      "Approach Rent Controller or Legal Services Authority.",
+      "Avoid vacating without legal order."
+    ],
+    "tts_text": "Tenants cannot be evicted without notice under Rent Control Act. Call 15100 for help."
+  },
+  {
+    "title": "Women Safety / ਮਹਿਲਾ ਸੁਰੱਖਿਆ / महिला सुरक्षा",
+    "question": "Someone is stalking or threatening me.",
+    "text": "Stalking and harassment are offences under Sections 354D and 506 IPC. Police must register FIR immediately.",
+    "law_reference": "Sections 354D & 506 IPC 1860",
+    "helpline": "Women Helpline 181 / Police 112",
+    "steps": [
+      "Call 181 or 112 for immediate help.",
+      "File FIR mentioning details of threat or messages.",
+      "Keep copies of complaint and FIR for follow-up."
+    ],
+    "tts_text": "For stalking or threat call 181 or 112. Police must register FIR under Section 354D."
+  },
+  {
+    "title": "Child Rights / ਬੱਚਿਆਂ ਦੇ ਹੱਕ / बच्चों के अधिकार",
+    "question": "A child is being abused or neglected.",
+    "text": "The POCSO Act 2012 protects children from sexual offences and abuse. Child Welfare Committee and 1098 helpline are available.",
+    "law_reference": "POCSO Act 2012",
+    "helpline": "Child Helpline 1098",
+    "steps": [
+      "Call 1098 or visit nearest police station.",
+      "Provide details and evidence confidentially.",
+      "Co-operate with Child Welfare Officer for rescue."
+    ],
+    "tts_text": "Report child abuse immediately to 1098 under POCSO Act 2012."
+  },
+  {
+    "title": "Emergency Numbers / ਐਮਰਜੈਂਸੀ ਨੰਬਰ / आपातकालीन नंबर",
+    "question": "What are the important national emergency numbers?",
+    "text": "India has dedicated helplines for safety and emergency services available 24×7 nationwide.",
+    "law_reference": "Government Emergency Protocols",
+    "helpline": "112, 181, 1098, 1930, 15100, 14567",
+    "steps": [
+      "112 – All Emergency (Police, Fire, Ambulance)",
+      "181 – Women Helpline, 1098 – Child Helpline",
+      "1930 – Cybercrime, 15100 – Legal Aid, 14567 – Elder Helpline"
+    ],
+    "tts_text": "For emergencies dial 112 or specific helplines like 181 for women and 1098 for children."
+  }
+,
+  {
+    "title": "Consumer Protection / ਉਪਭੋਗਤਾ ਸੁਰੱਖਿਆ / उपभोक्ता सुरक्षा",
+    "question": "I received a defective product from an online store.",
+    "text": "The Consumer Protection Act 2019 gives every buyer the right to refund, replacement, or compensation for defective goods or unfair trade.",
+    "law_reference": "Consumer Protection Act 2019",
+    "helpline": "Consumer Helpline 1800-11-4000",
+    "steps": [
+      "Contact the seller and keep invoice and emails as proof.",
+      "File complaint on consumerhelpline.gov.in or District Forum.",
+      "Attach evidence like photos or bills for faster resolution."
+    ],
+    "tts_text": "You have rights under Consumer Protection Act 2019. Call 1800-11-4000 or file at consumerhelpline.gov.in."
+  },
+  {
+    "title": "Right to Information / ਸੂਚਨਾ ਦਾ ਹੱਕ / सूचना का अधिकार",
+    "question": "How can I obtain government records through RTI?",
+    "text": "Any citizen can request information from a public authority under the RTI Act 2005 by paying a ₹10 fee.",
+    "law_reference": "Right to Information Act 2005 Section 6(1)",
+    "helpline": "RTI Helpline 15100",
+    "steps": [
+      "Address your application to the Public Information Officer.",
+      "Attach ₹10 fee via IPO or court-fee stamp.",
+      "Send by post or deliver personally and keep acknowledgment."
+    ],
+    "tts_text": "Under RTI Act 2005 you can seek any government information by paying ₹10 fee."
+  },
+  {
+    "title": "Environmental Protection / ਵਾਤਾਵਰਣ ਸੁਰੱਖਿਆ / पर्यावरण संरक्षण",
+    "question": "The factory near my home releases harmful smoke.",
+    "text": "Under the Air (Prevention and Control of Pollution) Act 1981 and Environment Protection Act 1986, citizens may report pollution to the State Pollution Control Board.",
+    "law_reference": "Air Act 1981 & Environment Protection Act 1986",
+    "helpline": "Pollution Control Board 1800-233-7933",
+    "steps": [
+      "Record location, photos, and details of pollution.",
+      "Submit complaint to Pollution Control Board with evidence.",
+      "Follow up using acknowledgment or helpline."
+    ],
+    "tts_text": "Report factory pollution to Pollution Board 1800-233-7933 under Air Act 1981."
+  },
+  {
+    "title": "Public Nuisance / ਜਨ ਤਕਲੀਫ਼ / सार्वजनिक उपद्रव",
+    "question": "Neighbours dumping garbage or blocking roads.",
+    "text": "Under Section 268 IPC, public nuisance causing danger or obstruction is punishable. Municipal authorities and police can act.",
+    "law_reference": "Section 268 Indian Penal Code 1860",
+    "helpline": "Municipal Helpline 155303 / Police 112",
+    "steps": [
+      "Complain to local municipal body with photo proof.",
+      "If not acted upon, approach police under Sec 268 IPC.",
+      "File written representation to District Collector."
+    ],
+    "tts_text": "Public nuisance like garbage dumping can be reported under Section 268 IPC. Call 112 or 155303."
+  },
+  {
+    "title": "Senior Citizen Welfare / ਬਜ਼ੁਰਗ ਭਲਾਈ / वरिष्ठ नागरिक कल्याण",
+    "question": "My children stopped giving me maintenance.",
+    "text": "The Maintenance and Welfare of Parents and Senior Citizens Act 2007 allows elderly parents to claim monthly maintenance.",
+    "law_reference": "Senior Citizens Act 2007",
+    "helpline": "Elder Helpline 14567",
+    "steps": [
+      "Call 14567 or visit District Social Welfare Office.",
+      "Submit written complaint for maintenance.",
+      "Tribunal may order monthly allowance from children."
+    ],
+    "tts_text": "Elders can claim support under Senior Citizens Act 2007. Call 14567 for help."
+  },
+  {
+    "title": "Cyber Safety / ਸਾਇਬਰ ਸੁਰੱਖਿਆ / साइबर सुरक्षा",
+    "question": "Someone is blackmailing me on social media.",
+    "text": "Cyber blackmail is punishable under IT Act 2000 Sections 66E and 67A for violation of privacy or obscene content online.",
+    "law_reference": "Information Technology Act 2000 Sections 66E, 67A",
+    "helpline": "Cybercrime 1930",
+    "steps": [
+      "Report immediately at cybercrime.gov.in or call 1930.",
+      "Collect screenshots and chat evidence.",
+      "Request content removal and file FIR."
+    ],
+    "tts_text": "If blackmailed online, report at cybercrime.gov.in or dial 1930."
+  },
+  {
+    "title": "Human Rights Awareness / ਮਨੁੱਖੀ ਅਧਿਕਾਰ / मानव अधिकार",
+    "question": "Where can I complain if my basic rights are violated?",
+    "text": "The Protection of Human Rights Act 1993 establishes the National Human Rights Commission (NHRC) to address abuse and discrimination.",
+    "law_reference": "Human Rights Act 1993",
+    "helpline": "NHRC Helpline 14433",
+    "steps": [
+      "Submit written complaint to NHRC online or by post.",
+      "Attach evidence and ID proof.",
+      "Follow up using complaint number from NHRC."
+    ],
+    "tts_text": "For any rights violation contact NHRC at 14433 under Human Rights Act 1993."
+  },
+  {
+    "title": "Indian Penal Code Basics / ਭਾਰਤੀ ਦੰਡ ਸੰਹਿਤਾ / भारतीय दंड संहिता",
+    "question": "What is the IPC and why is it important?",
+    "text": "The Indian Penal Code 1860 defines all criminal offences and punishments in India, including theft, assault, and fraud.",
+    "law_reference": "Indian Penal Code 1860",
+    "helpline": "Police Helpline 112",
+    "steps": [
+      "Read IPC sections related to your case.",
+      "Consult a lawyer or legal aid service.",
+      "File FIR with police if a crime is committed."
+    ],
+    "tts_text": "IPC 1860 is the main criminal law of India. Call 112 to report any offence."
+  },
+  {
+    "title": "Fundamental Duties / ਮੂਲ ਫਰਜ / मौलिक कर्तव्य",
+    "question": "What are my duties as a citizen of India?",
+    "text": "Article 51A of the Constitution lists fundamental duties like respecting the Constitution, protecting environment and public property.",
+    "law_reference": "Article 51A Constitution of India",
+    "helpline": "Citizen Helpline 15100",
+    "steps": [
+      "Respect law and national symbols.",
+      "Protect environment and public property.",
+      "Promote harmony and scientific temper."
+    ],
+    "tts_text": "Citizens must follow Article 51A duties — respect Constitution and protect environment."
+  },
+  {
+    "title": "Right to Life and Dignity / ਜੀਵਨ ਅਤੇ ਮਾਨ ਦਾ ਅਧਿਕਾਰ / जीवन का अधिकार",
+    "question": "Can government deny me medical treatment?",
+    "text": "Article 21 ensures right to life and dignity including timely medical care. Hospitals must provide emergency treatment without refusal.",
+    "law_reference": "Article 21 Constitution of India",
+    "helpline": "Health Helpline 1075",
+    "steps": [
+      "Call 1075 for medical emergency or ambulance.",
+      "Complain to District Health Officer if denied care.",
+      "Approach State Human Rights Commission for action."
+    ],
+    "tts_text": "Right to life includes medical care under Article 21. Call 1075 for emergency."
+  }
+]
 [
   {
     "title": "Right to Privacy / निजता का अधिकार / ਗੋਪਨੀਯਤਾ ਦਾ ਅਧਿਕਾਰ",
