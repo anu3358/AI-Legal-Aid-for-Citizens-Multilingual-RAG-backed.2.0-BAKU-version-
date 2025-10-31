@@ -567,7 +567,7 @@
       "If police refuse, send written complaint to SP under Section 154(3)."
     ]
   }
-  /* … add remaining similar 23+ entries for property disputes, child rights, senior citizen abuse, traffic challan, environment, education, bail, IPC meaning, etc. … */
+
 ]
 ,
   {
@@ -896,5 +896,393 @@
       "Approach State Human Rights Commission for action."
     ],
     "tts_text": "Right to life includes medical care under Article 21. Call 1075 for emergency."
+  }
+]
+[
+  {
+    "title": "Right to Privacy / निजता का अधिकार / ਗੋਪਨੀਯਤਾ ਦਾ ਅਧਿਕਾਰ",
+    "question": "What is the Right to Privacy? / निजता का अधिकार क्या है? / ਗੋਪਨੀਯਤਾ ਦਾ ਅਧਿਕਾਰ ਕੀ ਹੈ?",
+    "text": "The Right to Privacy is a fundamental right under Article 21 of the Indian Constitution. It protects citizens from unauthorized surveillance, data misuse, and intrusion into personal life.",
+    "law_reference": "Article 21, Constitution of India",
+    "helpline": "Cyber Helpline 1930",
+    "steps": [
+      "If your privacy is violated online, report at cybercrime.gov.in or call 1930.",
+      "File complaint in High Court under Article 226 if violation persists.",
+      "Secure your online accounts and devices."
+    ]
+  },
+  {
+    "title": "Right to Education / शिक्षा का अधिकार / ਸਿੱਖਿਆ ਦਾ ਅਧਿਕਾਰ",
+    "question": "How can I claim free education for my child? / मैं अपने बच्चे के लिए मुफ्त शिक्षा कैसे पा सकता हूँ? / ਮੈਂ ਆਪਣੇ ਬੱਚੇ ਲਈ ਮੁਫ਼ਤ ਸਿੱਖਿਆ ਕਿਵੇਂ ਲੈ ਸਕਦਾ ਹਾਂ?",
+    "text": "The Right to Education Act 2009 guarantees free and compulsory education to all children between 6 and 14 years of age.",
+    "law_reference": "Right to Education Act 2009",
+    "helpline": "Education Helpline 1800-115-565",
+    "steps": [
+      "Visit local government school or education officer.",
+      "Submit child’s age and residence proof.",
+      "File grievance if admission denied."
+    ]
+  },
+  {
+    "title": "Freedom of Speech / अभिव्यक्ति की स्वतंत्रता / ਅਭਿਵਿਕਤੀ ਦੀ ਆਜ਼ਾਦੀ",
+    "question": "What is freedom of speech? / अभिव्यक्ति की स्वतंत्रता क्या है? / ਅਭਿਵਿਕਤੀ ਦੀ ਆਜ਼ਾਦੀ ਕੀ ਹੈ?",
+    "text": "Freedom of Speech under Article 19(1)(a) allows citizens to express opinions freely, with reasonable restrictions under Article 19(2).",
+    "law_reference": "Article 19(1)(a), Constitution of India",
+    "helpline": "Legal Aid Helpline 15100",
+    "steps": [
+      "You may express views freely but avoid hate speech.",
+      "If censored unfairly, approach High Court.",
+      "Seek RTI for information about content blocking."
+    ]
+  },
+  {
+    "title": "Dowry Harassment / दहेज उत्पीड़न / ਦਹੇਜ ਉਤਪੀੜਨ",
+    "question": "My husband is demanding dowry, what can I do? / मेरा पति दहेज मांग रहा है / ਮੇਰਾ ਪਤੀ ਦਹੇਜ ਮੰਗਦਾ ਹੈ, ਕੀ ਕਰਾਂ?",
+    "text": "Dowry harassment is a criminal offence under Section 498A of IPC. Police must register FIR against husband or relatives for cruelty or dowry demand.",
+    "law_reference": "Section 498A IPC 1860",
+    "helpline": "Women Helpline 181",
+    "steps": [
+      "Collect proof of harassment like messages or witnesses.",
+      "Submit written complaint to police or Women Cell.",
+      "If ignored, call 181 or approach NCW."
+    ]
+  },
+  {
+    "title": "Domestic Violence / घरेलू हिंसा / ਘਰੇਲੂ ਹਿੰਸਾ",
+    "question": "How can I file complaint for domestic violence? / घरेलू हिंसा की शिकायत कैसे करें? / ਘਰੇਲੂ ਹਿੰਸਾ ਦੀ ਸ਼ਿਕਾਇਤ ਕਿਵੇਂ ਕਰੀਏ?",
+    "text": "Under the Domestic Violence Act 2005, women facing abuse can seek protection, residence, and maintenance orders from court.",
+    "law_reference": "Protection of Women from Domestic Violence Act 2005",
+    "helpline": "Women Helpline 181",
+    "steps": [
+      "Go to nearest police station or Protection Officer.",
+      "Write complaint with details of abuse.",
+      "Court can issue protection or residence order."
+    ]
+  },
+  {
+    "title": "Cyber Fraud / साइबर ठगी / ਸਾਇਬਰ ਠੱਗੀ",
+    "question": "Someone used my ATM card online. / मेरे कार्ड से ऑनलाइन पैसे निकाल लिए गए। / ਮੇਰੇ ਕਾਰਡ ਨਾਲ ਠੱਗੀ ਹੋਈ ਹੈ।",
+    "text": "Cyber fraud is punishable under Sections 66C and 66D of the IT Act 2000. Victims should report within 24 hours for best recovery.",
+    "law_reference": "Information Technology Act 2000 Sections 66C & 66D",
+    "helpline": "Cyber Helpline 1930",
+    "steps": [
+      "Call 1930 or file complaint at cybercrime.gov.in.",
+      "Inform your bank immediately.",
+      "Keep complaint number for follow-up."
+    ]
+  },
+  {
+    "title": "Police Refusing FIR / पुलिस एफआईआर दर्ज नहीं कर रही / ਪੁਲਿਸ FIR ਨਹੀਂ ਲੈਂਦੀ",
+    "question": "Police refused to register my FIR, what can I do? / पुलिस एफआईआर दर्ज नहीं कर रही है / ਜੇ ਪੁਲਿਸ FIR ਨਹੀਂ ਲੈਂਦੀ ਤਾਂ ਕੀ ਕਰੀਏ?",
+    "text": "If police refuse to file an FIR, send a written complaint to Superintendent of Police under Section 154(3) CrPC or approach Magistrate under Section 156(3).",
+    "law_reference": "Sections 154(3) & 156(3) CrPC",
+    "helpline": "Police Helpline 112",
+    "steps": [
+      "Ask for written reason of refusal.",
+      "Send complaint to SP by post or email.",
+      "If still ignored, approach Magistrate."
+    ]
+  },
+  {
+    "title": "Property Dispute / संपत्ति विवाद / ਜਾਇਦਾਦ ਵਿਵਾਦ",
+    "question": "Neighbour encroached my land. / मेरे पड़ोसी ने जमीन पर कब्जा कर लिया है। / ਮੇਰੇ ਪੜੋਸੀ ਨੇ ਜ਼ਮੀਨ ਤੇ ਕਬਜ਼ਾ ਕੀਤਾ ਹੈ।",
+    "text": "You can file a civil suit for possession and injunction under Civil Procedure Code and approach Tehsildar for site verification.",
+    "law_reference": "Civil Procedure Code, Section 5",
+    "helpline": "Legal Aid 15100",
+    "steps": [
+      "Collect land papers, photos, and witnesses.",
+      "Consult a lawyer for civil suit.",
+      "File case for possession or injunction."
+    ]
+  },
+  {
+    "title": "Traffic Challan / ट्रैफिक चालान / ਟਰੈਫਿਕ ਚਾਲਾਨ",
+    "question": "I received wrong e-challan. / मुझे गलत चालान मिला है। / ਮੈਨੂੰ ਗਲਤ ਚਾਲਾਨ ਮਿਲਿਆ ਹੈ।",
+    "text": "You can dispute a wrong challan through your state transport website or visit RTO office.",
+    "law_reference": "Motor Vehicles Act 1988",
+    "helpline": "Traffic Helpline 1073",
+    "steps": [
+      "Check challan details on official portal.",
+      "Upload documents as proof.",
+      "Submit grievance online or in RTO."
+    ]
+  },
+  {
+    "title": "Right to Information / सूचना अधिकार / ਸੂਚਨਾ ਅਧਿਕਾਰ",
+    "question": "How to file an RTI application? / आरटीआई आवेदन कैसे करें? / RTI ਕਿਵੇਂ ਲਗਾਈਏ?",
+    "text": "Under the RTI Act 2005, any citizen can seek information from government offices by paying ₹10 fee.",
+    "law_reference": "Right to Information Act 2005 Section 6(1)",
+    "helpline": "RTI Helpline 15100",
+    "steps": [
+      "Address to Public Information Officer.",
+      "Attach ₹10 fee or IPO.",
+      "Submit by post or online."
+    ]
+  },
+  {
+    "title": "Free Legal Aid / निःशुल्क कानूनी सहायता / ਮੁਫ਼ਤ ਕਾਨੂੰਨੀ ਮਦਦ",
+    "question": "Where can I get free legal help? / मुफ्त कानूनी सहायता कहाँ मिलेगी? / ਮੁਫ਼ਤ ਕਾਨੂੰਨੀ ਮਦਦ ਕਿੱਥੋਂ ਮਿਲੇਗੀ?",
+    "text": "Under the Legal Services Authorities Act 1987, women, children, SC/ST, and poor citizens can get free lawyers.",
+    "law_reference": "Legal Services Authorities Act 1987",
+    "helpline": "NALSA 15100",
+    "steps": [
+      "Call 15100 or visit DLSA office.",
+      "Submit ID and income proof.",
+      "Lawyer assigned free of cost."
+    ]
+  },
+  {
+    "title": "Right to Equality / समानता का अधिकार / ਸਮਾਨਤਾ ਦਾ ਅਧਿਕਾਰ",
+    "question": "What is the Right to Equality? / समानता का अधिकार क्या है? / ਸਮਾਨਤਾ ਦਾ ਅਧਿਕਾਰ ਕੀ ਹੈ?",
+    "text": "Articles 14-18 of the Constitution ensure equality before law and prohibit discrimination by caste, religion, gender or place of birth.",
+    "law_reference": "Articles 14-18, Constitution of India",
+    "helpline": "Legal Aid 15100",
+    "steps": [
+      "If discriminated, approach Human Rights Commission.",
+      "File complaint with police under SC/ST Act if caste based.",
+      "Seek free legal aid support."
+    ]
+  },
+  {
+    "title": "Child Labour / बाल श्रम / ਬਾਲ ਸ਼ਰਮ",
+    "question": "A child is working in a factory. / फैक्ट्री में बच्चा काम करता है। / ਫੈਕਟਰੀ ਵਿਚ ਬੱਚਾ ਕੰਮ ਕਰਦਾ ਹੈ।",
+    "text": "Employment of children below 14 years is banned under the Child Labour (Prohibition and Regulation) Act 1986.",
+    "law_reference": "Child Labour Act 1986",
+    "helpline": "Child Helpline 1098",
+    "steps": [
+      "Call 1098 or inform police.",
+      "Provide address and photos.",
+      "Cooperate with rescue officers."
+    ]
+  },
+  {
+    "title": "Senior Citizen Abuse / वरिष्ठ नागरिक उत्पीड़न / ਵਰਿਸ਼ਠ ਨਾਗਰਿਕ ਉਤਪੀੜਨ",
+    "question": "Family is harassing senior citizen. / परिवार परेशान कर रहा है। / ਪਰਿਵਾਰ ਤੰਗ ਕਰ ਰਿਹਾ ਹੈ।",
+    "text": "Under the Senior Citizens Act 2007, elders can claim maintenance and protection from abuse.",
+    "law_reference": "Senior Citizens Act 2007",
+    "helpline": "Elder Helpline 14567",
+    "steps": [
+      "Call 14567 or visit social welfare office.",
+      "File complaint for protection or maintenance.",
+      "Tribunal may order monthly support."
+    ]
+  },
+  {
+    "title": "Environmental Pollution / पर्यावरण प्रदूषण / ਵਾਤਾਵਰਣ ਪ੍ਰਦੂਸ਼ਣ",
+    "question": "Factory near home emits smoke. / फैक्ट्री से धुआँ निकलता है। / ਫੈਕਟਰੀ ਤੋਂ ਧੂੰਆਂ ਨਿਕਲਦਾ ਹੈ।",
+    "text": "Under Air Act 1981 and Environment Protection Act 1986, pollution can be reported to State Pollution Control Board.",
+    "law_reference": "Air Act 1981 & Environment Protection Act 1986",
+    "helpline": "Pollution Board 1800-233-7933",
+    "steps": [
+      "Record address and details.",
+      "Submit complaint with photo proof.",
+      "Follow up via helpline."
+    ]
+  },
+  {
+    "title": "Bail Process / जमानत प्रक्रिया / ਜਮਾਨਤ ਪ੍ਰਕਿਰਿਆ",
+    "question": "How can I apply for bail? / जमानत कैसे लें? / ਜਮਾਨਤ ਕਿਵੇਂ ਲਵੋ?",
+    "text": "Bail can be granted under Sections 436–439 CrPC depending on offence type, by Magistrate or Sessions Court.",
+    "law_reference": "Sections 436–439 CrPC",
+    "helpline": "Legal Aid 15100",
+    "steps": [
+      "Consult lawyer for correct section.",
+      "Prepare bail application.",
+      "File before Magistrate or Sessions Court."
+    ]
+  },
+  {
+    "title": "Tenant Rights / किरायेदार अधिकार / ਕਿਰਾਏਦਾਰ ਹੱਕ",
+    "question": "Landlord forcing eviction without notice. / मकान मालिक बिना नोटिस निकाल रहा है। / ਮਕਾਨ ਮਾਲਕ ਬਿਨਾ ਨੋਟਿਸ ਕੱਢ ਰਿਹਾ ਹੈ।",
+    "text": "Tenants are protected under Rent Control Acts; eviction requires valid written notice and court order.",
+    "law_reference": "Rent Control Act (State-wise)",
+    "helpline": "Legal Aid 15100",
+    "steps": [
+      "Ask for written notice.",
+      "File complaint with Rent Controller.",
+      "Do not vacate without legal order."
+    ]
+  },
+  {
+    "title": "Caste Discrimination / जाति भेदभाव / ਜਾਤੀ ਭੇਦਭਾਵ",
+    "question": "Faced caste discrimination, what law protects me? / जाति के आधार पर भेदभाव हुआ है / ਜਾਤੀ ਅਧਾਰਿਤ ਭੇਦਭਾਵ ਹੋਇਆ ਹੈ।",
+    "text": "SC/ST (Prevention of Atrocities) Act 1989 protects against caste-based abuse and violence.",
+    "law_reference": "SC/ST Act 1989",
+    "helpline": "SC-ST Helpline 14566",
+    "steps": [
+      "Write complaint with details.",
+      "Approach police or SC/ST Commission.",
+      "Seek free legal aid."
+    ]
+  },
+  {
+    "title": "Women Safety / महिला सुरक्षा / ਮਹਿਲਾ ਸੁਰੱਖਿਆ",
+    "question": "Someone is stalking or threatening me. / कोई पीछा कर रहा है। / ਕੋਈ ਪਿਛਾ ਕਰ ਰਿਹਾ ਹੈ।",
+    "text": "Stalking and harassment are punishable under Sections 354D and 506 IPC. Police must register FIR immediately.",
+    "law_reference": "Sections 354D & 506 IPC 1860",
+    "helpline": "Women Helpline 181 / Police 112",
+    "steps": [
+      "Call 181 or 112 immediately.",
+      "File FIR mentioning threats.",
+      "Keep copies of FIR and complaint."
+    ]
+  },
+  {
+    "title": "Consumer Protection / उपभोक्ता सुरक्षा / ਉਪਭੋਗਤਾ ਸੁਰੱਖਿਆ",
+    "question": "Received defective product online. / गलत सामान मिला। / ਖਰਾਬ ਸਮਾਨ ਮਿਲਿਆ।",
+    "text": "The Consumer Protection Act 2019 gives right to refund, replacement, or compensation for defective goods or unfair trade.",
+    "law_reference": "Consumer Protection Act 2019",
+    "helpline": "Consumer Helpline 1800-11-4000",
+    "steps": [
+      "Contact seller and keep invoice proof.",
+      "File complaint on consumerhelpline.gov.in.",
+      "Attach photos or bills for evidence."
+    ]
+  }
+]
+[
+  {
+    "title": "Right to Privacy / निजता का अधिकार / ਗੋਪਨੀਯਤਾ ਦਾ ਅਧਿਕਾਰ",
+    "question": "What is the Right to Privacy? / निजता का अधिकार क्या है? / ਗੋਪਨੀਯਤਾ ਦਾ ਅਧਿਕਾਰ ਕੀ ਹੈ?",
+    "text": "The Right to Privacy is a fundamental right under Article 21 of the Indian Constitution. It protects citizens from unauthorized surveillance, data misuse, and intrusion into personal life.",
+    "law_reference": "Article 21, Constitution of India",
+    "helpline": "Cyber Helpline 1930",
+    "steps": [
+      "If your privacy is violated online, report at cybercrime.gov.in or call 1930.",
+      "You can also file a constitutional writ under Article 226 in the High Court.",
+      "Ensure your digital data and devices are secured."
+    ]
+  },
+  {
+    "title": "Right to Education / शिक्षा का अधिकार / ਸਿੱਖਿਆ ਦਾ ਅਧਿਕਾਰ",
+    "question": "How can I claim free education for my child? / मैं अपने बच्चे के लिए मुफ्त शिक्षा कैसे पा सकता हूँ? / ਮੈਂ ਆਪਣੇ ਬੱਚੇ ਲਈ ਮੁਫ਼ਤ ਸਿੱਖਿਆ ਕਿਵੇਂ ਲੈ ਸਕਦਾ ਹਾਂ?",
+    "text": "The Right to Education Act 2009 guarantees free and compulsory education to children between 6 and 14 years of age in India.",
+    "law_reference": "Right to Education Act 2009",
+    "helpline": "Education Helpline 1800-115-565",
+    "steps": [
+      "Contact your local government school or education officer.",
+      "Submit age and residence proof of the child.",
+      "If denied, file a grievance with the District Education Officer."
+    ]
+  },
+  {
+    "title": "Freedom of Speech / अभिव्यक्ति की स्वतंत्रता / ਅਭਿਵਿਕਤੀ ਦੀ ਆਜ਼ਾਦੀ",
+    "question": "What is freedom of speech? / अभिव्यक्ति की स्वतंत्रता क्या है? / ਅਭਿਵਿਕਤੀ ਦੀ ਆਜ਼ਾਦੀ ਕੀ ਹੈ?",
+    "text": "Freedom of Speech and Expression under Article 19(1)(a) allows citizens to express opinions freely, with reasonable restrictions under Article 19(2).",
+    "law_reference": "Article 19(1)(a), Constitution of India",
+    "helpline": "Legal Aid Helpline 15100",
+    "steps": [
+      "You can express opinions online/offline but avoid hate speech or defamation.",
+      "If your speech is censored illegally, approach the High Court.",
+      "You can also file RTI to seek reasons for censorship."
+    ]
+  },
+  {
+    "title": "Dowry Harassment / दहेज उत्पीड़न / ਦਹੇਜ ਉਤਪੀੜਨ",
+    "question": "My husband is demanding dowry, what can I do? / मेरा पति दहेज मांग रहा है / ਮੇਰਾ ਪਤੀ ਦਹੇਜ ਮੰਗਦਾ ਹੈ, ਕੀ ਕਰਾਂ?",
+    "text": "Dowry harassment is a criminal offence under Section 498A of IPC. Police must register FIR against husband or relatives for cruelty or dowry demand.",
+    "law_reference": "Section 498A IPC 1860",
+    "helpline": "Women Helpline 181",
+    "steps": [
+      "Collect proof of abuse like messages or witnesses.",
+      "Submit complaint at police station or Women Cell.",
+      "If ignored, call 181 or contact National Commission for Women."
+    ]
+  },
+  {
+    "title": "Domestic Violence / घरेलू हिंसा / ਘਰੇਲੂ ਹਿੰਸਾ",
+    "question": "How can I file a complaint for domestic violence? / घरेलू हिंसा की शिकायत कैसे करें? / ਘਰੇਲੂ ਹਿੰਸਾ ਦੀ ਸ਼ਿਕਾਇਤ ਕਿਵੇਂ ਕਰੀਏ?",
+    "text": "Under the Domestic Violence Act 2005, women facing physical, emotional, or economic abuse can seek protection, residence, and maintenance orders.",
+    "law_reference": "Protection of Women from Domestic Violence Act 2005",
+    "helpline": "Women Helpline 181",
+    "steps": [
+      "Go to the nearest police station or Protection Officer.",
+      "Write a complaint with details of abuse.",
+      "Court can issue protection and residence orders."
+    ]
+  },
+  {
+    "title": "Cyber Fraud / साइबर ठगी / ਸਾਇਬਰ ਠੱਗੀ",
+    "question": "Someone used my ATM card online. / मेरे कार्ड से ऑनलाइन पैसे निकाल लिए गए। / ਮੇਰੇ ਕਾਰਡ ਨਾਲ ਠੱਗੀ ਹੋਈ ਹੈ।",
+    "text": "Cyber fraud cases fall under Sections 66C and 66D of the IT Act 2000. Victims should report within 24 hours for best recovery chance.",
+    "law_reference": "Information Technology Act 2000, Sections 66C & 66D",
+    "helpline": "Cyber Helpline 1930",
+    "steps": [
+      "Call 1930 or report at cybercrime.gov.in immediately.",
+      "Inform your bank to block the card or account.",
+      "Keep complaint number for tracking investigation."
+    ]
+  },
+  {
+    "title": "Police Refusing FIR / पुलिस एफआईआर दर्ज नहीं कर रही / ਪੁਲਿਸ FIR ਨਹੀਂ ਲੈਂਦੀ",
+    "question": "Police refused to register my FIR, what can I do? / पुलिस एफआईआर दर्ज नहीं कर रही है, क्या करें? / ਜੇ ਪੁਲਿਸ FIR ਨਹੀਂ ਲੈਂਦੀ ਤਾਂ ਕੀ ਕਰੀਏ?",
+    "text": "If police refuse to file an FIR, you can send a written complaint to the Superintendent of Police under Section 154(3) CrPC or approach Magistrate under Section 156(3).",
+    "law_reference": "Sections 154(3) & 156(3) CrPC",
+    "helpline": "Police Helpline 112",
+    "steps": [
+      "Ask for written reason for refusal.",
+      "Send complaint to SP by post or email.",
+      "If ignored, approach Magistrate under Section 156(3)."
+    ]
+  },
+  {
+    "title": "Property Dispute / संपत्ति विवाद / ਜਾਇਦਾਦ ਵਿਵਾਦ",
+    "question": "Neighbour encroached my land. / मेरे पड़ोसी ने जमीन पर कब्जा कर लिया है। / ਮੇਰੇ ਪੜੋਸੀ ਨੇ ਜ਼ਮੀਨ ਤੇ ਕਬਜ਼ਾ ਕੀਤਾ ਹੈ।",
+    "text": "You can file a civil suit for possession and injunction under the Civil Procedure Code and approach the local Tehsildar for boundary verification.",
+    "law_reference": "Civil Procedure Code, Section 5",
+    "helpline": "Legal Aid Helpline 15100",
+    "steps": [
+      "Collect land papers and site photos.",
+      "Consult a lawyer or Tehsildar.",
+      "File a civil suit for possession or injunction."
+    ]
+  },
+  {
+    "title": "Traffic Challan / ट्रैफिक चालान / ਟਰੈਫਿਕ ਚਾਲਾਨ",
+    "question": "I received a wrong e-challan. / मुझे गलत चालान मिला है। / ਮੈਨੂੰ ਗਲਤ ਚਾਲਾਨ ਮਿਲਿਆ ਹੈ।",
+    "text": "You can dispute a wrong traffic challan through your state transport website or visit the nearest RTO office.",
+    "law_reference": "Motor Vehicles Act 1988",
+    "helpline": "Traffic Helpline 1073",
+    "steps": [
+      "Check challan details on official traffic site.",
+      "Upload proof like GPS or payment records.",
+      "File an online or written grievance."
+    ]
+  },
+  {
+    "title": "Right to Information / सूचना अधिकार / ਸੂਚਨਾ ਅਧਿਕਾਰ",
+    "question": "How to file an RTI application? / आरटीआई आवेदन कैसे करें? / RTI ਕਿਵੇਂ ਲਗਾਈਏ?",
+    "text": "Under the RTI Act 2005, any citizen can seek information from public authorities by paying ₹10 fee. The authority must reply within 30 days.",
+    "law_reference": "Right to Information Act 2005, Section 6(1)",
+    "helpline": "RTI Helpline 15100",
+    "steps": [
+      "Address application to the Public Information Officer (PIO).",
+      "Attach ₹10 fee or IPO.",
+      "Submit by post and keep acknowledgment."
+    ]
+  },
+  {
+    "title": "Free Legal Aid / निःशुल्क कानूनी सहायता / ਮੁਫ਼ਤ ਕਾਨੂੰਨੀ ਮਦਦ",
+    "question": "Where can I get free legal help? / मुफ्त कानूनी सहायता कहाँ मिलेगी? / ਮੁਫ਼ਤ ਕਾਨੂੰਨੀ ਮਦਦ ਕਿੱਥੋਂ ਮਿਲੇਗੀ?",
+    "text": "Under the Legal Services Authorities Act 1987, women, children, SC/ST, and low-income citizens are entitled to free legal representation.",
+    "law_reference": "Legal Services Authorities Act 1987",
+    "helpline": "NALSA Helpline 15100",
+    "steps": [
+      "Call 15100 or visit District Legal Services Authority (DLSA).",
+      "Submit ID and income proof.",
+      "Free lawyer will be assigned for your case."
+    ]
+  },
+  {
+    "title": "Right to Equality / समानता का अधिकार / ਸਮਾਨਤਾ ਦਾ ਅਧਿਕਾਰ",
+    "question": "What is the Right to Equality? / समानता का अधिकार क्या है? / ਸਮਾਨਤਾ ਦਾ ਅਧਿਕਾਰ ਕੀ ਹੈ?",
+    "text": "Articles 14 to 18 of the Indian Constitution guarantee equality before law, prohibit discrimination, and abolish untouchability and titles.",
+    "law_reference": "Articles 14–18, Constitution of India",
+    "helpline": "Legal Aid Helpline 15100",
+    "steps": [
+      "You can file a complaint if discriminated by caste, religion, or gender.",
+      "Approach police or Human Rights Commission.",
+      "Seek legal assistance under free legal aid."
+    ]
   }
 ]
