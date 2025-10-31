@@ -1,50 +1,60 @@
-import streamlit as st
-import json
-import os
+# app.py
 
-# 🚨 This MUST be the first Streamlit command:
+# 1️⃣ Import first
+import streamlit as st
+from pathlib import Path
+import json
+import base64
+from rag import Retriever
+from template_generator import generate_fir, generate_rti_application
+from utils import detect_language, tts_play_bytes, transcribe_audio_streamlit, translate_text
+
+# 2️⃣ This MUST be the first Streamlit command!
 st.set_page_config(
-    page_title='BAKU THE "NYAY BUDDY" - Auto Multilingual RAG',
+    page_title='BAKU THE "NYAY BUDDY" - Auto multilingual RAG',
     page_icon="⚖️",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
-# 🌑 Custom dark theme styling
-st.markdown(
-    """
+# 3️⃣ Now we can safely add styling, header, etc.
+# Custom dark theme
+st.markdown("""
     <style>
-        .stApp {
-            background-color: #1c1c1c;  /* Soft dark grey */
-            color: #f0f0f0;
-        }
-        .stTextInput > div > div > input,
-        .stTextArea textarea {
-            background-color: #2b2b2b;
-            color: white;
-        }
-        .stButton>button {
-            background-color: #007acc;
-            color: white;
-            border-radius: 8px;
-        }
-        .stButton>button:hover {
-            background-color: #005fa3;
-        }
-        .stMarkdown, p, h1, h2, h3 {
-            color: #f5f5f5 !important;
-        }
-        .stSidebar {
-            background-color: #222222;
-        }
+    .stApp {
+        background-color: #121212;
+        color: #f5f5f5;
+        background-image: url("https://raw.githubusercontent.com/yourusername/yourrepo/main/nyay_buddy_logo.png");
+        background-size: 25%;
+        background-position: right top;
+        background-repeat: no-repeat;
+        opacity: 0.98;
+    }
+    .stTextArea textarea, .stTextInput input {
+        background-color: #1e1e1e;
+        color: white;
+    }
+    .stButton>button {
+        background-color: #00C4FF;
+        color: white;
+        border-radius: 8px;
+        border: none;
+    }
+    .stButton>button:hover {
+        background-color: #0090cc;
+    }
+    .stSidebar {
+        background-color: #1a1a1a;
+        color: white;
+    }
     </style>
-    """,
-    unsafe_allow_html=True
-)
+""", unsafe_allow_html=True)
 
-# ... now rest of your app code follows:
-st.title("⚖️ BAKU THE 'NYAY BUDDY'")
-st.write("Welcome to the multilingual AI legal assistance app.")
+# ✅ Then your normal app code continues:
+st.markdown("""
+<h1 style="color:#00C4FF; margin-bottom:0;">BAKU THE "NYAY BUDDY"</h1>
+<p style="color:#cbd5e1; margin-top:0;">Auto multilingual RAG - ANURAG SAINI</p>
+""", unsafe_allow_html=True)
 
 import streamlit as st
 from pathlib import Path
