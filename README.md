@@ -142,9 +142,11 @@ config.toml	Streamlit configuration for dark theme
 
 Each response not only gives steps but also links you to the right authority immediately.
 
-🏅 Appreciation for Innovation
+## 🏅 Appreciation for Innovation
 
-🌟 Anurag Saini (BAKU) has redefined what a student major project can achieve.
-While others code, he creates a cause.
-A perfect blend of AI, Law, and Humanity — setting a new benchmark in academic excellence.
-✨✨✨ Because every star makes justice shine brighter! ✨✨✨
+> 🌟 **Anurag Saini (BAKU)** has redefined what a *student major project* can achieve.  
+> While others code, he **creates a cause.**  
+> A perfect blend of **AI, Law, and Humanity** — setting a new benchmark in academic excellence.  
+
+<h3 align="center">✨✨✨ Because every star makes justice shine brighter! ✨✨✨</h3>
+
